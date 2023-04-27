@@ -1,7 +1,5 @@
 package application;
 
-// Trabalho Fábio Giordani, Gustavio de Lima e Thiago Rochedo
-
 import java.util.Scanner;
 
 public class Main {
